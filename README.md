@@ -31,6 +31,12 @@ The business wants to better understand its sales and profitability performance 
 - Tables, Bookcases, and Supplies generated negative total profit, highlighting areas that may require further investigation.
 - The top five customers by sales provide opportunities to study purchasing patterns and identify strategies that could encourage repeat purchases.
 
+## Dashboard Preview
+
+### Power BI Dashboard
+
+![Power BI Dashboard](Images/powerbi_dashboard.png)
+
 ## Recommendations
 
 Based on the analysis, the following actions could help improve business performance:
